@@ -1,2 +1,2 @@
 # test-actions
-Leaning GitHub Actions
+Learning GitHub Actions
